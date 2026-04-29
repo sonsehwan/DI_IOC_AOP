@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: DI_IOC_AOP
